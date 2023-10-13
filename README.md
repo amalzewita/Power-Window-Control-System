@@ -4,7 +4,8 @@ The project aims to implement a front passenger door window control system with 
 # Project Information
 
 - Project: `[Power Window Control System]`
-- Authors: `[Amal Amr]`, `[Ali Ahmed]`, `[Yasmin Khaled]`, `[Ahmed Mohamed]`, `[Maha]`, `[Yomna Khaled]`
+- Authors: `[Amal Amr]`, `[Ali Ahmed]`, `[Yasmin Khaled]`, `[Ahmed Mohamed]`, `[Maha Mohamed]`, `[Yomna Khaled]`
+- Video: [Link](https://drive.google.com/drive/folders/1-j8wblCS6-cd9uu2KKcJjGrFtsJccECM?usp=sharing)
 
 # System Basic Features
 1. Manual open/close function
@@ -22,6 +23,3 @@ This function automatically stops the power window and moves it
 downward about 0.5 second if foreign matter gets caught in the
 window during one touch auto close operation.
 
-# Documents Link
-  
-  You can access all of the data and materials for the project at this [Link](https://drive.google.com/drive/folders/1-j8wblCS6-cd9uu2KKcJjGrFtsJccECM?usp=sharing).
