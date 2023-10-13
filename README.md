@@ -4,7 +4,7 @@ The project aims to implement a front passenger door window control system with 
 # Project Information
 
 - Project: `[Power Window Control System]`
-- Authors: `[Amal Amr]`, `[Ali Ahmed]`, `[Yasmin Khaled]`, `[Ahmed ElSeginy]`, `[Meriam Ehab]`
+- Authors: `[Amal Amr]`, `[Ali Ahmed]`, `[Yasmin Khaled]`, `[Ahmed Mohamed]`, `[Maha]`, `[Yomna Khaled]`
 
 # System Basic Features
 1. Manual open/close function
