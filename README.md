@@ -1,6 +1,11 @@
 # Power Window Control System
 The project aims to implement a front passenger door window control system with both passenger and driver control panels. The implementation should include the use of FreeRTOS, limit switches to restrict the window motor's movement, and obstacle detection to prevent jamming. The highlighted areas in red on the provided figure represent the specific components of the car to be implemented.
 
+# Project Information
+
+- Project: `[Nurse Assist Robot]`
+- Authors: `[Amal Amr]`, `[Yomna Kahlid]`, `[Mahmoud Shaarawy]`, `[Ahmed Hesham]`, `[Meriam Ehab]`
+
 # System Basic Features
 1. Manual open/close function
 When the power window switch is pushed or pulled
