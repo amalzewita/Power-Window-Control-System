@@ -3,8 +3,8 @@ The project aims to implement a front passenger door window control system with 
 
 # Project Information
 
-- Project: `[Nurse Assist Robot]`
-- Authors: `[Amal Amr]`, `[Yomna Kahlid]`, `[Mahmoud Shaarawy]`, `[Ahmed Hesham]`, `[Meriam Ehab]`
+- Project: `[Power Window Control System]`
+- Authors: `[Amal Amr]`, `[Ali Ahmed]`, `[Yasmin Khaled]`, `[Ahmed ElSeginy]`, `[Meriam Ehab]`
 
 # System Basic Features
 1. Manual open/close function
