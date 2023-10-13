@@ -1,11 +1,11 @@
-# Power Window Control System
-The project aims to implement a front passenger door window control system with both passenger and driver control panels. The implementation should include the use of FreeRTOS, limit switches to restrict the window motor's movement, and obstacle detection to prevent jamming. The highlighted areas in red on the provided figure represent the specific components of the car to be implemented.
-
 # Project Information
 
 - Project: `[Power Window Control System]`
 - Authors: `[Amal Amr]`, `[Ali Ahmed]`, `[Yasmin Khaled]`, `[Ahmed Mohamed]`, `[Maha Mohamed]`, `[Yomna Khaled]`
 - Video: [Link](https://drive.google.com/drive/folders/1-j8wblCS6-cd9uu2KKcJjGrFtsJccECM?usp=sharing)
+
+# Introduction
+The project aims to implement a front passenger door window control system with both passenger and driver control panels. The implementation should include the use of FreeRTOS, limit switches to restrict the window motor's movement, and obstacle detection to prevent jamming. The highlighted areas in red on the provided figure represent the specific components of the car to be implemented.
 
 # System Basic Features
 1. Manual open/close function
